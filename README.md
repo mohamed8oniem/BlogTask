@@ -11,9 +11,7 @@ This is a **Next.js Blog Task APP ** that allows users to:
 ## Architecture & Design
 
 - **State Management**: Zustand for managing cart and product state.
-- **Data Fetching**: Next.js API routes with Axios.
-- **UI Components**: Built with ShadCN UI and TailwindCSS.
-- **Persisting Data**: Cart stored in Zustand & localStorage.
+- **UI Components**: Built with TailwindCSS.
 
 ---
 
