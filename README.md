@@ -10,7 +10,6 @@ This is a **Next.js Blog Task APP ** that allows users to:
 
 ## Architecture & Design
 
-- **State Management**: Zustand for managing cart and product state.
 - **UI Components**: Built with TailwindCSS.
 
 ---
