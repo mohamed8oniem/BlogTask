@@ -1,16 +1,11 @@
-import Image from 'next/image';
-import ClientBlogList from './components/ClientBlogList';
-
-{
-  /* <Image
-aria-hidden
-src="/globe.svg"
-alt="Globe icon"
-width={16}
-height={16}
-/> */
-}
+import Link from 'next/link';
 
 export default async function Home() {
-  return <div>Home Page</div>;
+  return (
+    <div>
+      <Link href="/blog" className="text-4xl font-bold">
+        Click To Go To Blog Page To Preview Posts
+      </Link>
+    </div>
+  );
 }
