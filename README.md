@@ -1,4 +1,4 @@
-# 🛍️ Blog Task Project
+# Blog Task Project
 
 ## 🚀 Project Overview
 
